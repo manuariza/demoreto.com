@@ -1203,7 +1203,8 @@ img {
     z-index: -1;
     top: 0;
     left: 0;
-    background-color: rgba(104, 139, 254, 0.75); }
+    /* background-color: rgba(104, 139, 254, 0.75);  */
+  }
   .breadcrumb-area .breadcrumb-content {
     text-align: center; }
     .breadcrumb-area .breadcrumb-content h2 {
