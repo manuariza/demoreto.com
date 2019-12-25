@@ -619,7 +619,7 @@ img {
      transform: translate(-50%, -50%);
     z-index: 1; }
     .single-slide .welcome-text h2 {
-      font-size: 72px;
+      font-size: 90px;
       color: #ffffff;
       font-weight: 500;
       margin-bottom: 10px;
@@ -635,15 +635,15 @@ img {
           font-size: 42px; } }
       @media only screen and (max-width: 767px) {
         .single-slide .welcome-text h2 {
-          font-size: 24px; } }
+          font-size: 42px; } }
     .single-slide .welcome-text h4 {
-      font-size: 24px;
+      font-size: 72px;
       font-weight: 400;
       color: #ffffff;
       margin-bottom: 15px; }
       @media only screen and (max-width: 767px) {
         .single-slide .welcome-text h4 {
-          font-size: 18px; } }
+          font-size: 24px; } }
       .single-slide .welcome-text h4 span {
         font-weight: 300; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
