@@ -1,0 +1,14 @@
+# DeMoreto
+
+This file is an experimental, non-standard aid for AI/search assistants. It is not required for Google Search or Google generative AI visibility and does not guarantee inclusion or ranking.
+
+## Public URLs
+
+- https://demoreto.com/ - Official website for DeMoreto, the art restoration practice of Antonio G. Ariza in Madrid. Includes professional background, affiliations, contact details, and social profile links.
+
+## Site Entity
+
+- Name: DeMoreto
+- Person: Antonio G. Ariza
+- Topic: restauración de arte, conservación de patrimonio artístico, pintura española del siglo XIX
+- Location: Madrid, Spain

@@ -1,0 +1,6 @@
+reports/performance/**/*.report.html
+reports/performance/**/*.report.json
+reports/performance/**/lighthouse-*.json
+reports/performance/**/pagespeed-*.json
+reports/seo/**/html-validate-*.txt
+reports/seo/**/status-*.csv
