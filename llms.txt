@@ -1,14 +1,45 @@
 # DeMoreto
 
-This file is an experimental, non-standard aid for AI/search assistants. It is not required for Google Search or Google generative AI visibility and does not guarantee inclusion or ranking.
+Estudio de conservación y restauración de arte de Antonio G. Ariza en Madrid.
 
-## Public URLs
+- https://demoreto.com/
+- https://demoreto.com/archivo/
+- https://demoreto.com/contacto/
+- https://demoreto.com/estudio/
+- https://demoreto.com/obra/
+- https://demoreto.com/obra/agar/
+- https://demoreto.com/obra/algas/
+- https://demoreto.com/obra/barcelo/
+- https://demoreto.com/obra/chapel/
+- https://demoreto.com/obra/coral/
+- https://demoreto.com/obra/doble-a/
+- https://demoreto.com/obra/doble-b/
+- https://demoreto.com/obra/esme-1/
+- https://demoreto.com/obra/fatuo-1/
+- https://demoreto.com/obra/la-ola-1/
+- https://demoreto.com/obra/marte-1/
+- https://demoreto.com/obra/nubes-1/
+- https://demoreto.com/obra/sunset-3/
+- https://demoreto.com/obra/tanguy-1/
+- https://demoreto.com/obra/tanguy-2/
+- https://demoreto.com/obra/visc-1/
+- https://demoreto.com/restauracion/
+- https://demoreto.com/restauracion/arcangel-san-miguel/
+- https://demoreto.com/restauracion/arcangel-san-rafael/
+- https://demoreto.com/restauracion/calvario-anchieta/
+- https://demoreto.com/restauracion/el-cid/
+- https://demoreto.com/restauracion/florero-baudesson/
+- https://demoreto.com/restauracion/huida-a-egipto/
+- https://demoreto.com/restauracion/inmaculada-concepcion/
+- https://demoreto.com/restauracion/la-piedad/
+- https://demoreto.com/restauracion/pasmado-del-barniz/
+- https://demoreto.com/restauracion/retrato-balaca/
+- https://demoreto.com/restauracion/retrato-de-hombre/
+- https://demoreto.com/restauracion/retrato-de-nino/
+- https://demoreto.com/restauracion/retrato-de-senora/
+- https://demoreto.com/restauracion/san-juan-evangelista/
+- https://demoreto.com/restauracion/santiago-clavijo/
+- https://demoreto.com/restauracion/vida-en-el-estudio/
+- https://demoreto.com/restauracion/virgen-de-tomalos/
 
-- https://demoreto.com/ - Official website for DeMoreto, the art restoration practice of Antonio G. Ariza in Madrid. Includes professional background, affiliations, contact details, and social profile links.
-
-## Site Entity
-
-- Name: DeMoreto
-- Person: Antonio G. Ariza
-- Topic: restauración de arte, conservación de patrimonio artístico, pintura española del siglo XIX
-- Location: Madrid, Spain
+Este índice es informativo; no garantiza inclusión en buscadores o asistentes.

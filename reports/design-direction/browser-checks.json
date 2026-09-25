@@ -1,0 +1,34 @@
+[
+  {
+    "test": "mobile navigation",
+    "passed": true
+  },
+  {
+    "test": "menu Escape",
+    "passed": true
+  },
+  {
+    "test": "image lightbox",
+    "passed": true
+  },
+  {
+    "test": "image close",
+    "passed": true
+  },
+  {
+    "test": "sculpture filter",
+    "passed": true
+  },
+  {
+    "test": "archive search",
+    "passed": true
+  },
+  {
+    "test": "enquiry work context",
+    "passed": true
+  },
+  {
+    "test": "video metadata playable",
+    "passed": true
+  }
+]

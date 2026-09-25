@@ -1,0 +1,104 @@
+[
+  {
+    "slug": "demoreto-emblem",
+    "prompt": "Use case: logo-brand. Create one refined ORIGINAL DeMoreto art-conservation studio emblem. Reference image only for engraved black-ink printer's-mark aesthetic and oval proportion, not its symbols or brand. Transparent background. Black linework only. Central very legible intertwined classical serif capitals D and M. A fine oval double border encloses the monogram, two delicate acanthus sprigs and crossed small restoration tools (fine brush and slender conservation spatula) BELOW the letters. Tiny hatching on leaves, restrained Renaissance engraving, symmetrical elegant composition, no animals, no pyramid, no words or other letters. Strong clear silhouette readable at 60px tall. Single centered emblem, tight composition with 5% transparent margin, portrait oval within square image.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-719fa85e-cfa3-4bfb-ae54-760ec8c39c36.png",
+    "project_path": "new-design/assets/brand/demoreto-emblem.png"
+  },
+  {
+    "slug": "nubes-1",
+    "prompt": "Use case: compositing. Create a photorealistic high-end architectural editorial photograph for the DeMoreto painting catalogue. Input image is the EXACT painting Nubes 1 by Antonio G. Ariza, not a style inspiration. Show the entire painting prominently on a warm ivory plaster wall above a low oatmeal linen sofa in a refined Madrid living room, pale limestone floor, one dark walnut side table, soft natural side daylight. Artwork landscape aspect ratio 4200:3438 must stay EXACT; preserve its complete blue-white textured composition and every identifying mark, no invented brushstrokes, no cropping, recoloring or stretching. Thin unobtrusive oak float frame. Camera nearly front-on to artwork, restrained 50mm architectural perspective, believable lived-in detail, no people, no other paintings, no labels or text. Wide landscape photo, painting occupies about 45% of image width; calm art-book aesthetic, subtle shadows, avoid CGI slickness. This is an imagined installation, not documentary evidence.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-876d483a-2638-4a03-a8fb-a093b7f453ae.png",
+    "project_path": "new-design/assets/contexts/nubes-1.png"
+  },
+  {
+    "slug": "coral",
+    "prompt": "Use case: compositing. Photorealistic architectural editorial photograph for a classical art catalogue. Input is EXACT painting Coral by Antonio G. Ariza. Place it in a spacious warm-white minimalist dining room with long dark walnut table, cream upholstered dining chairs and soft afternoon light. The painting is a VERY long slender panorama, 6.18 times wider than high, displayed horizontally on the full back wall. Preserve complete artwork, exact 5418:876 aspect ratio, composition, colors and all distinctive marks. No cropping, stretching, reinterpretation or new brushwork. Thin dark wood float frame. Camera near-front-on to painting, wide landscape photograph, elegant art-book lighting and realistic material textures. Artwork is focal point, all edges visible, no objects overlapping it. No people, text, labels or additional artwork. Imagined installation, physical size illustrative.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-96b91493-659c-455f-a65b-7f36ab8aeb6c.png",
+    "project_path": "new-design/assets/contexts/coral.png"
+  },
+  {
+    "slug": "agar",
+    "prompt": "Use case: compositing. Photorealistic architectural editorial photograph for a classical art catalogue. Input is EXACT painting Agar by Antonio G. Ariza. Place it in a long walnut credenza in a refined dining room with warm limewash walls, a travertine dining table in foreground, two woven cane chairs, lateral daylight. Show the extraordinarily LONG THIN panoramic painting 6.41 times wider than high spanning the credenza; do not make it a normal landscape. Preserve complete artwork, exact 5233:816 aspect ratio, composition, colors and all distinctive marks. No cropping, stretching, reinterpretation or new brushwork. Thin dark wood float frame. Camera near-front-on to painting, wide landscape photograph, elegant art-book lighting and realistic material textures. Artwork is focal point, all edges visible, no objects overlapping it. No people, text, labels or additional artwork. Imagined installation, physical size illustrative.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-09352ae5-6b53-4ca3-a660-52588c356375.png",
+    "project_path": "new-design/assets/contexts/agar.png"
+  },
+  {
+    "slug": "algas",
+    "prompt": "Use case: compositing. Photorealistic architectural editorial photograph for a classical art catalogue. Input is EXACT painting Algas by Antonio G. Ariza. Place it in a serene architect-designed sitting room with pale stone wall, dark green wool chair and long low bleached-oak bench. The incredibly long thin panoramic painting is 6.29 times wider than high, centered above the bench; uncluttered, daylight. Preserve complete artwork, exact 5358:852 aspect ratio, composition, colors and all distinctive marks. No cropping, stretching, reinterpretation or new brushwork. Thin dark wood float frame. Camera near-front-on to painting, wide landscape photograph, elegant art-book lighting and realistic material textures. Artwork is focal point, all edges visible, no objects overlapping it. No people, text, labels or additional artwork. Imagined installation, physical size illustrative.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-42807678-ff9c-4f22-b1d7-37a36dfdc77f.png",
+    "project_path": "new-design/assets/contexts/algas.png"
+  },
+  {
+    "slug": "barcelo",
+    "prompt": "Use case: compositing. Photorealistic architectural editorial photograph, a quiet private collection gallery with warm gray limewashed wall and aged pale oak floor, a single sculptural dark walnut bench at lower right. Tall vertical painting centered and dominating wall, thin black float frame, diffused skylight. Input image is exact original painting Barcelo by Antonio G. Ariza. Preserve its whole composition, exact 3006:5196 aspect ratio, distinctive textures, marks and colors; no cropping, stretching or inventing brushwork. Artwork is primary focal point occupying about half the image height and at least 35% width when appropriate to ratio. Near-frontal camera, wide landscape photograph, sophisticated natural materials, soft realistic light, no people or text, no other art. Imagined installation for art catalogue.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-5323eb20-e7d3-4a56-8d22-c79b6281d623.png",
+    "project_path": "new-design/assets/contexts/barcelo.png"
+  },
+  {
+    "slug": "chapel",
+    "prompt": "Use case: compositing. Photorealistic architectural editorial photograph, a refined Madrid dining room, clay and ivory plaster, dark oak oval table low in foreground, two simple sculptural chairs, afternoon indirect daylight. Full landscape painting prominent above low sideboard, thin oak frame. Input image is exact original painting Chapel by Antonio G. Ariza. Preserve its whole composition, exact 4314:3306 aspect ratio, distinctive textures, marks and colors; no cropping, stretching or inventing brushwork. Artwork is primary focal point occupying about half the image height and at least 35% width when appropriate to ratio. Near-frontal camera, wide landscape photograph, sophisticated natural materials, soft realistic light, no people or text, no other art. Imagined installation for art catalogue.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-d868f5d7-2e60-4107-ad41-c07ad5062781.png",
+    "project_path": "new-design/assets/contexts/chapel.png"
+  },
+  {
+    "slug": "doble-b",
+    "prompt": "Use case: compositing. Photorealistic editorial photograph of an intimate contemporary painting gallery in a restored Madrid building. Ivory plaster, pale oak floor, diffused north light, spare walnut bench. Doble B is reference 1 and foreground featured work, large fully visible on frontal near wall. Doble A reference 2 is smaller in perspective through opening on left. Both are tall portrait paintings approximately 0.64 width/height. Preserve exact source proportions and entire painted surfaces, cream upper areas and distinctive red lower markings. Do not interchange the paintings, repaint, recolor, crop or stretch. Near-frontal view of featured painting, sophisticated spacious composition with architecture visible. Two artworks only, no people, no labels, no text. Wide landscape photo for an art catalogue. Imagined exhibition.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-78893f51-bb0a-4101-b600-9839350bc0b7.png",
+    "project_path": "new-design/assets/contexts/doble-b.png"
+  },
+  {
+    "slug": "doble-a",
+    "prompt": "Use case: compositing. Photorealistic editorial photograph of an intimate contemporary painting gallery in a restored Madrid building. Ivory plaster, pale oak floor, diffused north light, spare walnut bench. Doble A is reference 1 and foreground featured work, large fully visible on frontal near wall. Doble B reference 2 is smaller in perspective on distant right return wall. Both are tall portrait paintings approximately 0.64 width/height. Preserve exact source proportions and entire painted surfaces, cream upper areas and distinctive red lower markings. Do not interchange the paintings, repaint, recolor, crop or stretch. Near-frontal view of featured painting, sophisticated spacious composition with architecture visible. Two artworks only, no people, no labels, no text. Wide landscape photo for an art catalogue. Imagined exhibition.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-74b4c140-cc73-47e1-a138-ec714fb20055.png",
+    "project_path": "new-design/assets/contexts/doble-a.png"
+  },
+  {
+    "slug": "esme-1",
+    "prompt": "Use case: compositing. Photorealistic architectural editorial photo for an art catalogue: an elegant modern living room, warm white plaster, dark walnut shelves at the extreme side, low ivory sofa, pale limestone floor. Landscape painting centered prominently above sofa, cool soft daylight from right. Input image is the exact painting Esme 1 by Antonio G. Ariza, not style inspiration. Preserve whole artwork, precise 4956:3240 aspect ratio, complete colors, textures and recognizable marks. Never crop, stretch, recolor or reinvent artwork. Wide landscape photo, near-frontal view of painting, artwork occupies 45-55% image width, all edges visible. Sophisticated realistic materials, no excessive props, no people or text, no other paintings. Imagined installation.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-dfeed5f0-4b54-4f75-a62c-416bd5ab1df8.png",
+    "project_path": "new-design/assets/contexts/esme-1.png"
+  },
+  {
+    "slug": "fatuo-1",
+    "prompt": "Use case: compositing. Photorealistic architectural editorial photo for an art catalogue: an intimate evening-toned reading room, tobacco leather armchair to left, warm gray wall, blackened oak floor, a restrained brass reading light. Portrait painting fully visible on wall, gently lit with neutral gallery-quality light keeping its greens accurate. Input image is the exact painting Fatuo 1 by Antonio G. Ariza, not style inspiration. Preserve whole artwork, precise 3348:4134 aspect ratio, complete colors, textures and recognizable marks. Never crop, stretch, recolor or reinvent artwork. Wide landscape photo, near-frontal view of painting, artwork occupies 45-55% image width, all edges visible. Sophisticated realistic materials, no excessive props, no people or text, no other paintings. Imagined installation.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-4bec66c1-b193-42eb-a38e-ccbf13c5bf0f.png",
+    "project_path": "new-design/assets/contexts/fatuo-1.png"
+  },
+  {
+    "slug": "la-ola-1",
+    "prompt": "Use case: compositing. Photorealistic architectural editorial photo for an art catalogue: a contemplative contemporary gallery, off-white wall, pale concrete floor, long low dark oak bench, cool diffuse skylight. This dark landscape painting fills the main wall prominently in a delicate black floating frame. Input image is the exact painting La ola 1 by Antonio G. Ariza, not style inspiration. Preserve whole artwork, precise 4272:3492 aspect ratio, complete colors, textures and recognizable marks. Never crop, stretch, recolor or reinvent artwork. Wide landscape photo, near-frontal view of painting, artwork occupies 45-55% image width, all edges visible. Sophisticated realistic materials, no excessive props, no people or text, no other paintings. Imagined installation.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-54782d0e-ad45-4261-b071-e78cdf0dd931.png",
+    "project_path": "new-design/assets/contexts/la-ola-1.png"
+  },
+  {
+    "slug": "marte-1",
+    "prompt": "Use case: compositing. Photorealistic architectural editorial photo for a classical art catalogue: a restrained contemporary gallery with ivory wall and pale travertine floor. Vivid orange-red portrait painting centered and dramatic in soft neutral skylight, slim dark bronze frame, small dark wood bench at one side. Input is EXACT painting Marte 1 by Antonio G. Ariza. Preserve entire composition and exact 3444:4320 aspect ratio, full distinctive marks, texture and colors. No cropping, stretching, repainting or changing any areas of artwork. Camera near-frontal, wide landscape photograph, art occupies 45-60% width, all edges visible, realistic natural materials and illumination. No people, other paintings, text or labels. Imagined installation, not a real exhibition.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-68fb52e1-7b31-4342-938f-e8a5cf0310b2.png",
+    "project_path": "new-design/assets/contexts/marte-1.png"
+  },
+  {
+    "slug": "sunset-3",
+    "prompt": "Use case: compositing. Photorealistic architectural editorial photo for a classical art catalogue: a refined softly lit sitting room with warm ivory wall, oatmeal curved sofa low in frame, pale pink-gray stone side table, daylight. Large pale rose landscape painting above sofa in thin light oak frame. Input is EXACT painting Sunset 3 by Antonio G. Ariza. Preserve entire composition and exact 3966:3240 aspect ratio, full distinctive marks, texture and colors. No cropping, stretching, repainting or changing any areas of artwork. Camera near-frontal, wide landscape photograph, art occupies 45-60% width, all edges visible, realistic natural materials and illumination. No people, other paintings, text or labels. Imagined installation, not a real exhibition.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-5cb454f6-4e45-4d3a-8d89-96336e15ddd2.png",
+    "project_path": "new-design/assets/contexts/sunset-3.png"
+  },
+  {
+    "slug": "visc-1",
+    "prompt": "Use case: compositing. Photorealistic architectural editorial photo for a classical art catalogue: an elegant dining room with ivory plaster and dark walnut furniture, subtle stone floor, very sparse objects. Wide horizontal burgundy painting above low walnut credenza, restrained bronze frame, diffuse daylight. Input is EXACT painting Visc 1 by Antonio G. Ariza. Preserve entire composition and exact 5370:2610 aspect ratio, full distinctive marks, texture and colors. No cropping, stretching, repainting or changing any areas of artwork. Camera near-frontal, wide landscape photograph, art occupies 45-60% width, all edges visible, realistic natural materials and illumination. No people, other paintings, text or labels. Imagined installation, not a real exhibition.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-b94c05b5-859a-426f-b9f6-f5799b3f8702.png",
+    "project_path": "new-design/assets/contexts/visc-1.png"
+  },
+  {
+    "slug": "tanguy-1",
+    "prompt": "Use case: compositing. Photorealistic high-end editorial photograph of a small exhibition of Antonio G. Ariza's paintings. The featured painting Tanguy 1 is image 1: near-square 3492:3552 blue and white abstract with a large white lower band, dominant on frontal central wall. Nubes 1 image 2 is a landscape blue-white work, smaller on left return wall. Marte 1 image 3 is an orange portrait work, visible in a distant adjoining room. Preserve all three exact input paintings and their respective aspect ratios, colors, composition and identifying marks. No invented extra art, no stretching, cropping, repainting or mixing paintings. Warm white gallery walls, understated classical architectural cornice, matte pale oak floor, one dark oak bench, neutral diffuse skylight. Main painting occupies 40% of photograph width and all edges visible near-frontal; side works distinctly secondary. Wide landscape architectural photograph, natural material detail, no people, no text or labels. Imagined exhibition for website visualization.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-f01f0438-7daf-4edd-855f-679b3e6c81da.png",
+    "project_path": "new-design/assets/contexts/tanguy-1.png"
+  },
+  {
+    "slug": "tanguy-2",
+    "prompt": "Use case: compositing. Photorealistic high-end editorial photograph of a small exhibition of Antonio G. Ariza's paintings. The featured painting Tanguy 2 is image 1: landscape 4890:3384 burgundy-white abstract, dominant on frontal central wall. Visc 1 image 2 is a very wide 5370:2610 burgundy work on left return wall. Chapel image 3 is ochre and teal landscape, visible smaller in adjoining room. Preserve all three exact input paintings and their respective aspect ratios, colors, composition and identifying marks. No invented extra art, no stretching, cropping, repainting or mixing paintings. Warm white gallery walls, understated classical architectural cornice, matte pale oak floor, one dark oak bench, neutral diffuse skylight. Main painting occupies 40% of photograph width and all edges visible near-frontal; side works distinctly secondary. Wide landscape architectural photograph, natural material detail, no people, no text or labels. Imagined exhibition for website visualization.",
+    "source_path": "/Users/manuariza/.codex/generated_images/01a0d786-215f-73f3-93ab-be3b495558df/exec-ff049512-0aa1-4f98-abca-ed5b22a3f697.png",
+    "project_path": "new-design/assets/contexts/tanguy-2.png"
+  }
+]

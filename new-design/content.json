@@ -1,0 +1,308 @@
+{
+  "artworks": [
+    {
+      "title": "Agar",
+      "slug": "agar",
+      "width": 5233,
+      "height": 816
+    },
+    {
+      "title": "Algas",
+      "slug": "algas",
+      "width": 5358,
+      "height": 852
+    },
+    {
+      "title": "Barcelo",
+      "slug": "barcelo",
+      "width": 3006,
+      "height": 5196
+    },
+    {
+      "title": "Chapel",
+      "slug": "chapel",
+      "width": 4314,
+      "height": 3306
+    },
+    {
+      "title": "Coral",
+      "slug": "coral",
+      "width": 5418,
+      "height": 876
+    },
+    {
+      "title": "Doble a",
+      "slug": "doble-a",
+      "width": 3306,
+      "height": 5232
+    },
+    {
+      "title": "Doble b",
+      "slug": "doble-b",
+      "width": 3300,
+      "height": 5112
+    },
+    {
+      "title": "Esme 1",
+      "slug": "esme-1",
+      "width": 4956,
+      "height": 3240
+    },
+    {
+      "title": "Fatuo 1",
+      "slug": "fatuo-1",
+      "width": 3348,
+      "height": 4134
+    },
+    {
+      "title": "La ola 1",
+      "slug": "la-ola-1",
+      "width": 4272,
+      "height": 3492
+    },
+    {
+      "title": "Marte 1",
+      "slug": "marte-1",
+      "width": 3444,
+      "height": 4320
+    },
+    {
+      "title": "Nubes 1",
+      "slug": "nubes-1",
+      "width": 4200,
+      "height": 3438
+    },
+    {
+      "title": "Sunset 3",
+      "slug": "sunset-3",
+      "width": 3966,
+      "height": 3240
+    },
+    {
+      "title": "Tanguy 1",
+      "slug": "tanguy-1",
+      "width": 3492,
+      "height": 3552
+    },
+    {
+      "title": "Tanguy 2",
+      "slug": "tanguy-2",
+      "width": 4890,
+      "height": 3384
+    },
+    {
+      "title": "Visc 1",
+      "slug": "visc-1",
+      "width": 5370,
+      "height": 2610
+    }
+  ],
+  "projects": [
+    {
+      "slug": "virgen-de-tomalos",
+      "title": "Virgen de Tómalos",
+      "kind": "Pintura · 1756",
+      "ids": [
+        "CpUxKd9j7q6"
+      ],
+      "heading": "Un lienzo con siglos de historia",
+      "intro": "La suciedad superficial, las deformaciones del lienzo y numerosas roturas convivían con antiguas reparaciones en el reverso. La documentación muestra el estado de la obra, sus detalles y su presentación tras la intervención.",
+      "facts": "Óleo sobre lienzo · 200 × 140 cm",
+      "process": "La limpieza de depósitos biológicos se realizó mecánicamente. Las deformaciones se trataron con presión y calor. El estudio advierte que algunas marcas de corrosión en la pintura son irreversibles."
+    },
+    {
+      "slug": "retrato-de-hombre",
+      "title": "Retrato de hombre",
+      "kind": "Fotografía coloreada · c. 1880",
+      "ids": [
+        "CiHhxW7j5Tt"
+      ],
+      "heading": "La fragilidad de una imagen",
+      "intro": "Una fotografía sobre papel adherida a lienzo y coloreada al óleo. El delicado soporte y las pérdidas de pintura requerían estabilizar la obra antes de su presentación.",
+      "facts": "Anónimo español · 80 × 60 cm",
+      "process": "Consolidación de la pintura sobre el papel fotográfico, limpieza de suciedad superficial y reintegración cromática de las pérdidas."
+    },
+    {
+      "slug": "arcangel-san-rafael",
+      "title": "Arcángel San Rafael",
+      "kind": "Escultura · Siglo XVIII",
+      "ids": [
+        "Cb8IjyHD99i"
+      ],
+      "heading": "Conservar la policromía",
+      "intro": "Una talla de arte popular con pérdidas de policromía y zonas sin adherencia al soporte. La intervención distingue las carnaduras de los ropajes y las alas.",
+      "facts": "Anónimo español · Madera policromada y dorada · 80 cm",
+      "process": "Consolidación y limpieza superficial. Las carnaduras se reintegraron con estuco y color; en los ropajes y alas se aplicó una tinta plana neutra, sin estucar las faltas."
+    },
+    {
+      "slug": "retrato-de-senora",
+      "title": "Retrato de señora",
+      "kind": "Pintura · 1906",
+      "ids": [
+        "Cbuvs9dq4tP"
+      ],
+      "heading": "Recuperar la lectura del retrato",
+      "intro": "Un retrato de Gonzalo Bilbao Martínez. El barniz envejecido y la suciedad alteraban la percepción de los colores, mientras que pintura y soporte conservaban su estabilidad.",
+      "facts": "Gonzalo Bilbao · Óleo sobre lienzo · 100 × 80 cm",
+      "process": "Eliminación del barniz viejo y amarillento y de la suciedad de polución. La comparación original se conserva íntegra."
+    },
+    {
+      "slug": "el-cid",
+      "title": "El Cid parte al destierro",
+      "kind": "Pintura · 1877",
+      "ids": [
+        "CY015pbjnBi",
+        "CbZkskVjtue"
+      ],
+      "heading": "La estructura de una gran pintura",
+      "intro": "Julio Cebrián Mezquita representa la despedida del Cid en San Pedro de Cardeña. El lienzo llegó con graves daños en los bordes y pérdida de sujeción al bastidor.",
+      "facts": "Julio Cebrián Mezquita · Óleo sobre lienzo · 190 × 225 cm",
+      "process": "La documentación describe la colocación de bordes de refuerzo y el tratamiento previsto para roturas, pérdidas y barnices oxidados. Estas imágenes muestran un proceso en curso; no acreditan un resultado final."
+    },
+    {
+      "slug": "san-juan-evangelista",
+      "title": "Guirnalda con San Juan Evangelista",
+      "kind": "Pintura · Siglo XVII",
+      "ids": [
+        "CbFjWUWKX_S"
+      ],
+      "heading": "El color entre las flores",
+      "intro": "Una composición de guirnalda floral alrededor de la efigie del santo. Las restauraciones antiguas y los barnices oxidados alteraban su lectura.",
+      "facts": "Anónimo español · Óleo sobre lienzo · 80 × 60 cm",
+      "process": "Retirada de barnices oxidados y reintegración cromática en las zonas donde se había perdido pintura original."
+    },
+    {
+      "slug": "santiago-clavijo",
+      "title": "Santiago en la batalla de Clavijo",
+      "kind": "Pintura · Primera mitad del siglo XVIII",
+      "ids": [
+        "CUIHAQkjtJg"
+      ],
+      "heading": "Una pintura, varias capas de historia",
+      "intro": "Una pintura anónima española cuyo proceso de conservación se documenta mediante una comparación de estados.",
+      "facts": "Anónimo español · Óleo sobre lienzo · 100 × 80 cm",
+      "process": "Sentado de los estratos pictóricos y eliminación de barnices antiguos y suciedad superficial."
+    },
+    {
+      "slug": "retrato-de-nino",
+      "title": "Retrato de niño",
+      "kind": "Pintura · Mediados del siglo XIX",
+      "ids": [
+        "CTfZqL_DOvh"
+      ],
+      "heading": "Devolver estabilidad a la pintura",
+      "intro": "Los cambios de humedad y temperatura, junto con la deficiente fijación al bastidor, habían provocado el desprendimiento de las capas pictóricas.",
+      "facts": "Anónimo español · Siglo XIX",
+      "process": "Consolidación de los estratos pictóricos, recuperación de su adherencia y aplanado del craquelado. Tras ajustar la tensión de la tela, se inició la limpieza del barniz oxidado."
+    },
+    {
+      "slug": "la-piedad",
+      "title": "La Piedad",
+      "kind": "Escultura · Siglos XVII–XVIII",
+      "ids": [
+        "CS_doW0j8g-"
+      ],
+      "heading": "Materia, volumen y policromía",
+      "intro": "Un conjunto en madera de nogal con fendas, desprendimientos, repintes y pérdidas de volumen. Cristo es una talla completa; la Virgen es una imagen de vestir.",
+      "facts": "Madera de nogal policromada · Siglos XVII–XVIII",
+      "process": "Consolidación de madera y policromía, retirada selectiva de repintes, limpieza, reconstrucción de dedos perdidos, estucado, reintegración cromática y barnizado protector. Se conservó el repinte azul del paño de pureza."
+    },
+    {
+      "slug": "pasmado-del-barniz",
+      "title": "El pasmado del barniz",
+      "kind": "Proceso · Vídeo",
+      "ids": [
+        "CQL9b-wK3bQ"
+      ],
+      "heading": "Cuando el barniz oculta la pintura",
+      "intro": "Los halos blanquecinos del barniz pueden velar la imagen. Este vídeo documenta la eliminación de un barniz pasmado en una obra expuesta a un ambiente muy húmedo.",
+      "facts": "Vídeo de proceso · Reproducción original a 32×",
+      "process": "La publicación explica la relación entre humedad y pasmado. La secuencia está acelerada: no representa la duración real del tratamiento."
+    },
+    {
+      "slug": "vida-en-el-estudio",
+      "title": "Vida en el estudio",
+      "kind": "Cuaderno · Enero de 2022",
+      "ids": [
+        "CYbZ9K4DM0h"
+      ],
+      "heading": "Un lugar para mirar despacio",
+      "intro": "Una vista del taller compartida por Antonio al comienzo de 2022, entre obras y nuevos proyectos.",
+      "facts": "Archivo del estudio",
+      "process": "Esta fotografía documenta el espacio de trabajo en la fecha de la publicación."
+    },
+    {
+      "slug": "calvario-anchieta",
+      "title": "Calvario de Juan de Anchieta",
+      "kind": "Escultura · Siglo XVI",
+      "ids": [
+        "CLZYraTD__V",
+        "CGuPNmkDY5m"
+      ],
+      "heading": "Una mirada al Renacimiento",
+      "intro": "Tres tallas de madera dorada y policromada: Cristo, la Virgen y San Juan Evangelista. Las publicaciones del estudio atribuyen el conjunto a Juan de Anchieta.",
+      "facts": "Juan de Anchieta · Madera de nogal dorada y policromada",
+      "process": "En la Dolorosa, la madera estaba estable, pero varias capas alteraban la policromía: barniz de resina vegetal, un rebarnizado de goma laca y cera superficial. La restauración consistió en retirar esas capas. La documentación incluye el conjunto terminado, comparativas y un vídeo de limpieza."
+    },
+    {
+      "slug": "arcangel-san-miguel",
+      "title": "El Arcángel San Miguel",
+      "kind": "Pintura · Siglo XVII",
+      "ids": [
+        "CIocEuTjTvv"
+      ],
+      "heading": "La claridad del color",
+      "intro": "Una película de barniz amarillento impedía apreciar los colores de una pintura cuyo soporte y estratos pictóricos se encontraban en buen estado.",
+      "facts": "Círculo de los Rizi · Óleo sobre lienzo · 200 × 130 cm",
+      "process": "Retirada de los viejos barnices oxidados."
+    },
+    {
+      "slug": "retrato-balaca",
+      "title": "Retrato de niño, de Balaca",
+      "kind": "Pintura · Hacia 1865",
+      "ids": [
+        "CBOGTUyDKiR"
+      ],
+      "heading": "Un retrato sobre caoba",
+      "intro": "Una pequeña pintura de Ricardo Balaca con un barniz grueso y amarillento, además de depósitos de suciedad superficial.",
+      "facts": "Ricardo Balaca · Óleo sobre caoba · 35 × 25 cm",
+      "process": "Retirada del barniz envejecido y limpieza de suciedad superficial."
+    },
+    {
+      "slug": "huida-a-egipto",
+      "title": "La Huida a Egipto",
+      "kind": "Pintura · 1862",
+      "ids": [
+        "CAvZbNYDLKG"
+      ],
+      "heading": "Recuperar una escena",
+      "intro": "Francisco Díaz Carreño presentó esta pintura en la Exposición Nacional de 1862, según la documentación del estudio.",
+      "facts": "Francisco Díaz Carreño · Óleo sobre lienzo · 120 × 97 cm",
+      "process": "Limpieza de depósitos de polvo, humo y contaminación, y retirada de un barniz oxidado y amarilleado."
+    },
+    {
+      "slug": "inmaculada-concepcion",
+      "title": "Inmaculada Concepción",
+      "kind": "Pintura · Siglo XVIII",
+      "ids": [
+        "CEL9SM_DliU"
+      ],
+      "heading": "Leer bajo el barniz",
+      "intro": "Una pintura anónima con depósitos de suciedad, barniz oxidado y repintes posteriores a su realización.",
+      "facts": "Anónimo · Óleo sobre lienzo · 200 × 140 cm",
+      "process": "Limpieza de la superficie y retirada de repintes documentados en la publicación del estudio."
+    },
+    {
+      "slug": "florero-baudesson",
+      "title": "Florero, copia de Baudesson",
+      "kind": "Pintura y marco · Siglo XVIII",
+      "ids": [
+        "B2jGiSDjazY"
+      ],
+      "heading": "La profundidad de las flores",
+      "intro": "Un florero anónimo francés, copia de Nicolas Baudesson, llegó con el lienzo destensado, roturas y una película pictórica frágil. La suciedad y un barniz espeso y amarillento ocultaban la luz y el color. La intervención también recuperó la lectura del dorado del marco.",
+      "facts": "Anónimo francés · Copia de Nicolas Baudesson · Siglo XVIII",
+      "process": "Consolidación de la pintura con papel japonés, cola natural, calor y presión; colocación de parches; limpieza de suciedad y barniz envejecido; estucado y reintegración de pérdidas; barnizado final. En el marco se retiró la purpurina oxidada que cubría el dorado antiguo."
+    }
+  ]
+}

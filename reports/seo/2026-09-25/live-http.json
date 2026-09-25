@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://demoreto.com/",
+    "result": "200 https://demoreto.com/",
+    "error": ""
+  },
+  {
+    "url": "http://demoreto.com/",
+    "result": "200 https://demoreto.com/",
+    "error": ""
+  },
+  {
+    "url": "https://www.demoreto.com/",
+    "result": "200 https://demoreto.com/",
+    "error": ""
+  },
+  {
+    "url": "https://demoreto.com/robots.txt",
+    "result": "200 https://demoreto.com/robots.txt",
+    "error": ""
+  },
+  {
+    "url": "https://demoreto.com/sitemap.xml",
+    "result": "200 https://demoreto.com/sitemap.xml",
+    "error": ""
+  },
+  {
+    "url": "https://demoreto.com/new-design/",
+    "result": "404 https://demoreto.com/new-design/",
+    "error": ""
+  },
+  {
+    "url": "https://demoreto.com/seo-missing-check-20260925/",
+    "result": "404 https://demoreto.com/seo-missing-check-20260925/",
+    "error": ""
+  }
+]

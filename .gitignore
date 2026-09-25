@@ -4,3 +4,8 @@ reports/performance/**/lighthouse-*.json
 reports/performance/**/pagespeed-*.json
 reports/seo/**/html-validate-*.txt
 reports/seo/**/status-*.csv
+
+# Local OS and Python cache files
+.DS_Store
+__pycache__/
+*.py[cod]

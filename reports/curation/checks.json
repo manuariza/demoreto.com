@@ -1,0 +1,76 @@
+{
+  "links": [
+    {
+      "url": "http://localhost:8765/new-design/restauracion/florero-baudesson/",
+      "title": "Florero, copia de Baudesson"
+    },
+    {
+      "url": "http://localhost:8765/new-design/restauracion/virgen-de-tomalos/",
+      "title": "Virgen de Tómalos"
+    },
+    {
+      "url": "http://localhost:8765/new-design/restauracion/calvario-anchieta/",
+      "title": "Calvario de Juan de Anchieta"
+    },
+    {
+      "url": "http://localhost:8765/new-design/obra/tanguy-1/",
+      "title": "Tanguy 1"
+    },
+    {
+      "url": "http://localhost:8765/new-design/obra/nubes-1/",
+      "title": "Nubes 1"
+    },
+    {
+      "url": "http://localhost:8765/new-design/obra/marte-1/",
+      "title": "Marte 1"
+    }
+  ],
+  "checks": [
+    {
+      "title": "Florero, copia de Baudesson",
+      "figures": 7,
+      "text": 1024,
+      "broken": 0
+    },
+    {
+      "title": "Virgen de Tómalos",
+      "figures": 7,
+      "text": 903,
+      "broken": 0
+    },
+    {
+      "title": "Calvario de Juan de Anchieta",
+      "figures": 5,
+      "text": 845,
+      "broken": 0
+    },
+    {
+      "title": "Tanguy 1",
+      "figures": 3,
+      "text": 105,
+      "broken": 0
+    },
+    {
+      "title": "Nubes 1",
+      "figures": 3,
+      "text": 105,
+      "broken": 0
+    },
+    {
+      "title": "Marte 1",
+      "figures": 3,
+      "text": 105,
+      "broken": 0
+    }
+  ],
+  "portrait": {
+    "natural": [
+      800,
+      1000
+    ],
+    "rendered": [
+      335,
+      419
+    ]
+  }
+}
