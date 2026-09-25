@@ -1,9 +1,10 @@
 from pathlib import Path
 from seo_metadata import metadata
+from interface_icons import render_icons
 from PIL import Image,ImageOps
 import json,html,re,unicodedata,datetime,shutil,subprocess
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'new-design';AS=OUT/'assets';AS.mkdir(exist_ok=True)
-def esc(s):return html.escape(str(s),quote=True)
+def esc(s):return html.escape(str(s).replace('💪','').replace('🎨',''),quote=True)
 def slug(s):return re.sub(r'[^a-z0-9]+','-',unicodedata.normalize('NFKD',s).encode('ascii','ignore').decode().lower()).strip('-')
 def derivative(src,dst,size):
  if dst.exists():return
@@ -14,6 +15,11 @@ for p in sorted(Path('/Users/manuariza/Downloads/Antonio Art').glob('*.jpg')):
  for width in [700,1800,2600]:derivative(p,AS/f'{s}-{width}.webp',(width,width))
  edge=int(min(w,h)*.42);cx=int(w*.52);cy=int(h*.48);detail=im.crop((cx-edge//2,cy-edge//2,cx+edge//2,cy+edge//2));detail.thumbnail((1200,1200));detail.save(AS/f'{s}-detail.webp',quality=91)
  art.append(dict(title=title,slug=s,width=w,height=h))
+# Existing committed derivatives allow rebuilding without the external originals.
+if not art:
+ art=json.loads((OUT/'content.json').read_text())['artworks']
+ for a in art:
+  if not (AS/(a['slug']+'-1800.webp')).is_file():raise FileNotFoundError(a['slug'])
 for n in [2,3,4]:derivative(ROOT/f'img/bg-img/{n}.jpg',AS/f'studio-{n}.webp',(1800,1800))
 posts=list({p['code']:p for p in json.load(open(ROOT/'reports/content-archive/instagram.json'))}.values())
 for p in posts:
@@ -51,11 +57,12 @@ BASE='/new-design/'
 def link(path):return BASE+path
 mark='<img class="brand-emblem" src="/new-design/assets/brand/demoreto-emblem.webp" width="66" height="66" alt="" aria-hidden="true">'
 def page(path,title,body,active='',home=False):
+ title=title.replace('💪','').replace('🎨','').strip()
  nav=''.join(f'<a {"aria-current=page" if active==key else ""} href="{link(url)}">{label}</a>' for key,url,label in [('rest','restauracion/','Restauración'),('art','obra/','Obra de Antonio'),('studio','estudio/','El estudio'),('contact','contacto/','Contacto')])
  intro_preload='<link rel="preload" as="image" href="/new-design/assets/loader/engravings.webp" fetchpriority="high">' if home else ''
  seo=metadata(path,title,body,BASE)
  doc=f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,follow">{seo}<link rel="icon" type="image/x-icon" href="{BASE}assets/brand/favicon-dm-v2.ico" sizes="16x16 32x32 48x48 64x64"><link rel="icon" type="image/png" sizes="32x32" href="{BASE}assets/brand/favicon-dm-v2-32.png"><link rel="icon" type="image/png" sizes="192x192" href="{BASE}assets/brand/favicon-dm-v2-192.png"><link rel="icon" type="image/svg+xml" sizes="any" href="{BASE}assets/brand/favicon-dm-v2.svg"><link rel="apple-touch-icon" sizes="180x180" href="{BASE}assets/brand/favicon-dm-v2-180.png">{intro_preload}<link rel="stylesheet" href="{BASE}style.css"><script defer src="{BASE}site.js"></script></head><body class="{'home' if home else ''}"><a class="skip" href="#main">Saltar al contenido</a><header><a class="brand" href="{BASE}" aria-label="DeMoreto, inicio">{mark}<span>DeMoreto<small>CONSERVACIÓN & ARTE</small></span></a><nav aria-label="Principal">{nav}</nav><button class="menu-toggle" aria-expanded="false" aria-controls="mobile-nav">Menú <span>☰</span></button></header><div id="mobile-nav" hidden>{nav}</div><main id="main">{body}</main><footer><div class="footer-top"><p>La historia continúa.<br><em>Hablemos de su obra.</em></p><a class="action" href="{BASE}contacto/">{{ CONTACTAR CON EL ESTUDIO }}</a></div><div class="footer-bottom"><a class="footer-logo" href="{BASE}">DeMoreto</a><span>Antonio G. Ariza<br>Conservación, restauración y pintura · Madrid</span><a href="/new-design/archivo/">Archivo del estudio ↗</a><a href="https://www.instagram.com/moreto_restauracion/">Instagram ↗</a><a href="mailto:agariza@gmail.com">agariza@gmail.com ↗</a></div><div class="fine">© DeMoreto <span>Una mirada al arte, a través del tiempo.</span></div></footer><dialog id="lightbox"><button class="lightbox-close" aria-label="Cerrar imagen">Cerrar ×</button><img alt=""><p></p></dialog></body></html>'''
- dest=OUT/path/'index.html' if path else OUT/'index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(doc)
+ dest=OUT/path/'index.html' if path else OUT/'index.html';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text('\n'.join(line.rstrip() for line in render_icons(doc).splitlines()))
 def img(src,alt,cls='',eager=False):
  attrs=''
  try:

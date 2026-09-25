@@ -1,0 +1,506 @@
+[
+  {
+    "name": "small-phone",
+    "route": "/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 12,
+    "errors": []
+  },
+  {
+    "name": "small-phone",
+    "route": "/obra/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 20,
+    "errors": []
+  },
+  {
+    "name": "small-phone",
+    "route": "/restauracion/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 22,
+    "errors": []
+  },
+  {
+    "name": "small-phone",
+    "route": "/obra/sunset-3/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 8,
+    "errors": []
+  },
+  {
+    "name": "small-phone",
+    "route": "/restauracion/florero-baudesson/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 13,
+    "errors": []
+  },
+  {
+    "name": "small-phone",
+    "route": "/contacto/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 7,
+    "errors": []
+  },
+  {
+    "name": "small-phone",
+    "route": "/estudio/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 4,
+    "errors": []
+  },
+  {
+    "name": "iphone-se",
+    "route": "/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 12,
+    "errors": []
+  },
+  {
+    "name": "iphone-se",
+    "route": "/obra/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 20,
+    "errors": []
+  },
+  {
+    "name": "iphone-se",
+    "route": "/restauracion/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 22,
+    "errors": []
+  },
+  {
+    "name": "iphone-se",
+    "route": "/obra/sunset-3/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 8,
+    "errors": []
+  },
+  {
+    "name": "iphone-se",
+    "route": "/restauracion/florero-baudesson/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 13,
+    "errors": []
+  },
+  {
+    "name": "iphone-se",
+    "route": "/contacto/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 7,
+    "errors": []
+  },
+  {
+    "name": "iphone-se",
+    "route": "/estudio/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 4,
+    "errors": []
+  },
+  {
+    "name": "iphone",
+    "route": "/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 12,
+    "errors": []
+  },
+  {
+    "name": "iphone",
+    "route": "/obra/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 20,
+    "errors": []
+  },
+  {
+    "name": "iphone",
+    "route": "/restauracion/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 22,
+    "errors": []
+  },
+  {
+    "name": "iphone",
+    "route": "/obra/sunset-3/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 8,
+    "errors": []
+  },
+  {
+    "name": "iphone",
+    "route": "/restauracion/florero-baudesson/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 13,
+    "errors": []
+  },
+  {
+    "name": "iphone",
+    "route": "/contacto/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 7,
+    "errors": []
+  },
+  {
+    "name": "iphone",
+    "route": "/estudio/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 4,
+    "errors": []
+  },
+  {
+    "name": "android",
+    "route": "/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 12,
+    "errors": []
+  },
+  {
+    "name": "android",
+    "route": "/obra/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 20,
+    "errors": []
+  },
+  {
+    "name": "android",
+    "route": "/restauracion/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 22,
+    "errors": []
+  },
+  {
+    "name": "android",
+    "route": "/obra/sunset-3/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 8,
+    "errors": []
+  },
+  {
+    "name": "android",
+    "route": "/restauracion/florero-baudesson/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 13,
+    "errors": []
+  },
+  {
+    "name": "android",
+    "route": "/contacto/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 7,
+    "errors": []
+  },
+  {
+    "name": "android",
+    "route": "/estudio/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 4,
+    "errors": []
+  },
+  {
+    "name": "iphone-max",
+    "route": "/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 12,
+    "errors": []
+  },
+  {
+    "name": "iphone-max",
+    "route": "/obra/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 20,
+    "errors": []
+  },
+  {
+    "name": "iphone-max",
+    "route": "/restauracion/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 22,
+    "errors": []
+  },
+  {
+    "name": "iphone-max",
+    "route": "/obra/sunset-3/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 8,
+    "errors": []
+  },
+  {
+    "name": "iphone-max",
+    "route": "/restauracion/florero-baudesson/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 13,
+    "errors": []
+  },
+  {
+    "name": "iphone-max",
+    "route": "/contacto/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 7,
+    "errors": []
+  },
+  {
+    "name": "iphone-max",
+    "route": "/estudio/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 4,
+    "errors": []
+  },
+  {
+    "name": "ipad",
+    "route": "/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 12,
+    "errors": []
+  },
+  {
+    "name": "ipad",
+    "route": "/obra/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 20,
+    "errors": []
+  },
+  {
+    "name": "ipad",
+    "route": "/restauracion/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 22,
+    "errors": []
+  },
+  {
+    "name": "ipad",
+    "route": "/obra/sunset-3/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 8,
+    "errors": []
+  },
+  {
+    "name": "ipad",
+    "route": "/restauracion/florero-baudesson/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 13,
+    "errors": []
+  },
+  {
+    "name": "ipad",
+    "route": "/contacto/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 7,
+    "errors": []
+  },
+  {
+    "name": "ipad",
+    "route": "/estudio/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 4,
+    "errors": []
+  },
+  {
+    "name": "ipad-air",
+    "route": "/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 12,
+    "errors": []
+  },
+  {
+    "name": "ipad-air",
+    "route": "/obra/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 20,
+    "errors": []
+  },
+  {
+    "name": "ipad-air",
+    "route": "/restauracion/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 22,
+    "errors": []
+  },
+  {
+    "name": "ipad-air",
+    "route": "/obra/sunset-3/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 8,
+    "errors": []
+  },
+  {
+    "name": "ipad-air",
+    "route": "/restauracion/florero-baudesson/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 13,
+    "errors": []
+  },
+  {
+    "name": "ipad-air",
+    "route": "/contacto/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 7,
+    "errors": []
+  },
+  {
+    "name": "ipad-air",
+    "route": "/estudio/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 4,
+    "errors": []
+  },
+  {
+    "name": "ipad-landscape",
+    "route": "/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 12,
+    "errors": []
+  },
+  {
+    "name": "ipad-landscape",
+    "route": "/obra/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 20,
+    "errors": []
+  },
+  {
+    "name": "ipad-landscape",
+    "route": "/restauracion/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 22,
+    "errors": []
+  },
+  {
+    "name": "ipad-landscape",
+    "route": "/obra/sunset-3/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 8,
+    "errors": []
+  },
+  {
+    "name": "ipad-landscape",
+    "route": "/restauracion/florero-baudesson/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 13,
+    "errors": []
+  },
+  {
+    "name": "ipad-landscape",
+    "route": "/contacto/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 7,
+    "errors": []
+  },
+  {
+    "name": "ipad-landscape",
+    "route": "/estudio/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 4,
+    "errors": []
+  },
+  {
+    "name": "desktop",
+    "route": "/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 12,
+    "errors": []
+  },
+  {
+    "name": "desktop",
+    "route": "/obra/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 20,
+    "errors": []
+  },
+  {
+    "name": "desktop",
+    "route": "/restauracion/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 22,
+    "errors": []
+  },
+  {
+    "name": "desktop",
+    "route": "/obra/sunset-3/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 8,
+    "errors": []
+  },
+  {
+    "name": "desktop",
+    "route": "/restauracion/florero-baudesson/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 13,
+    "errors": []
+  },
+  {
+    "name": "desktop",
+    "route": "/contacto/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 7,
+    "errors": []
+  },
+  {
+    "name": "desktop",
+    "route": "/estudio/",
+    "overflow": false,
+    "unicode": [],
+    "icons": 4,
+    "errors": []
+  }
+]
