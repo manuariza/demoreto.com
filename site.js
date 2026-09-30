@@ -7,7 +7,19 @@ dialog?.querySelector('button').addEventListener('click',()=>dialog.close());dia
 document.querySelectorAll('[data-filter]').forEach(button=>button.addEventListener('click',()=>{document.querySelectorAll('[data-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));document.querySelectorAll('[data-category]').forEach(card=>card.hidden=button.dataset.filter!=='Todas'&&card.dataset.category!==button.dataset.filter);}));
 const emailAction=document.querySelector('#email-action');
 if(emailAction){const work=new URLSearchParams(location.search).get('obra');if(work){const subject='Consulta sobre la obra '+work;const url='mailto:agariza@gmail.com?subject='+encodeURIComponent(subject);emailAction.href=url;document.querySelector('#contact-email').href=url;const context=document.querySelector('#enquiry-context');context.textContent='Su consulta: '+work;context.hidden=false;}}
-document.querySelector('#copy-email')?.addEventListener('click',async()=>{const status=document.querySelector('#copy-status');try{await navigator.clipboard.writeText('agariza@gmail.com');status.textContent='Dirección copiada.';}catch{status.textContent='Puede seleccionar y copiar la dirección: agariza@gmail.com';const range=document.createRange();range.selectNodeContents(document.querySelector('#contact-email'));const selection=getSelection();selection.removeAllRanges();selection.addRange(range);}});
+document.querySelector('#copy-email')?.addEventListener('click',async event=>{
+ const button=event.currentTarget,status=document.querySelector('#copy-status');
+ const address='agariza@gmail.com';let copied=false;
+ try{await navigator.clipboard.writeText(address);copied=true;}
+ catch{
+  // Copy the real address even though its visible label uses words.
+  const field=document.createElement('textarea');field.value=address;field.readOnly=true;
+  field.setAttribute('aria-hidden','true');field.style.cssText='position:fixed;opacity:0;pointer-events:none';
+  document.body.append(field);field.select();
+  try{copied=document.execCommand('copy');}catch{}finally{field.remove();button.focus();}
+ }
+ status.textContent=copied?'Dirección copiada.':'No se pudo copiar. Utilice «Enviar un correo» para contactar con el estudio.';
+});
 
 // Decode the shared illustration atlas before exposing any cells.
 async function showEngravingIntro(){
