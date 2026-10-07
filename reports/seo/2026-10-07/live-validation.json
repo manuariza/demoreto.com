@@ -1,0 +1,1924 @@
+{
+  "checked_urls": 137,
+  "passed": 137,
+  "results": [
+    {
+      "url": "https://demoreto.com/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B-oa3EijrW_/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B-oa3EijrW_/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B-oa3EijrW_/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B15s1fli0AV/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B15s1fli0AV/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B15s1fli0AV/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B15tNlXCSL7/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B15tNlXCSL7/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B15tNlXCSL7/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B1ri9ATCo6f/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B1ri9ATCo6f/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B1ri9ATCo6f/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B1ribdTi6qC/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B1ribdTi6qC/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B1ribdTi6qC/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B1rid-FCstU/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B1rid-FCstU/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B1rid-FCstU/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B1rjgPqC_No/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B1rjgPqC_No/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B1rjgPqC_No/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B1rkrxtlNRX/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B1rkrxtlNRX/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B1rkrxtlNRX/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B2jGiSDjazY/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B2jGiSDjazY/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B2jGiSDjazY/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B2jGmodD8Ap/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B2jGmodD8Ap/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B2jGmodD8Ap/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B5afsE4q_5m/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B5afsE4q_5m/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B5afsE4q_5m/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B65WAVTiMZu/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B65WAVTiMZu/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B65WAVTiMZu/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B6QsNBJilDt/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B6QsNBJilDt/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B6QsNBJilDt/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B6z9_qiitsC/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B6z9_qiitsC/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B6z9_qiitsC/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B76SYE5iAMb/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B76SYE5iAMb/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B76SYE5iAMb/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B76SZO5CzcZ/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B76SZO5CzcZ/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B76SZO5CzcZ/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B7B6r79C0Se/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B7B6r79C0Se/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B7B6r79C0Se/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B83QbGaKTqE/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B83QbGaKTqE/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B83QbGaKTqE/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B9ha5dQDa5i/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B9ha5dQDa5i/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B9ha5dQDa5i/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/B_o6Hz4DHmY/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/B_o6Hz4DHmY/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/B_o6Hz4DHmY/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BsG2aEhBh0u/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BsG2aEhBh0u/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BsG2aEhBh0u/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bsik0Aah-3o/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bsik0Aah-3o/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bsik0Aah-3o/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bsil7asBw57/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bsil7asBw57/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bsil7asBw57/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BtIvpMEhs_V/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BtIvpMEhs_V/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BtIvpMEhs_V/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BtQaFr9HBdO/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BtQaFr9HBdO/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BtQaFr9HBdO/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BtQaVnoHA9l/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BtQaVnoHA9l/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BtQaVnoHA9l/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BtRfCrQlYQp/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BtRfCrQlYQp/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BtRfCrQlYQp/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bu3im2_ny_S/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bu3im2_ny_S/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bu3im2_ny_S/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bu3k5xdHga5/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bu3k5xdHga5/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bu3k5xdHga5/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bu3mI6eHfoB/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bu3mI6eHfoB/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bu3mI6eHfoB/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bv3UVRDA09V/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bv3UVRDA09V/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bv3UVRDA09V/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvMKrBSHeeO/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvMKrBSHeeO/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvMKrBSHeeO/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvRpPsllPSp/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvRpPsllPSp/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvRpPsllPSp/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bv_44BGA1wL/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bv_44BGA1wL/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bv_44BGA1wL/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bv_4ybuAxNY/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bv_4ybuAxNY/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bv_4ybuAxNY/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bv_5Gj1gQ_j/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bv_5Gj1gQ_j/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bv_5Gj1gQ_j/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bv_5tG0gNu_/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bv_5tG0gNu_/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bv_5tG0gNu_/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvaDh5MHzo9/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvaDh5MHzo9/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvaDh5MHzo9/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvbYco0H5DC/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvbYco0H5DC/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvbYco0H5DC/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvbZOqZFfkP/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvbZOqZFfkP/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvbZOqZFfkP/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvbZqoSnbJY/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvbZqoSnbJY/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvbZqoSnbJY/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvbdLkWHByg/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvbdLkWHByg/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvbdLkWHByg/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvbdvC4nKfd/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvbdvC4nKfd/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvbdvC4nKfd/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bvbe6aTHtIN/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bvbe6aTHtIN/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bvbe6aTHtIN/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvbihLOHMG2/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvbihLOHMG2/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvbihLOHMG2/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvbjYJKn8O3/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvbjYJKn8O3/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvbjYJKn8O3/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvbkCqHHh7f/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvbkCqHHh7f/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvbkCqHHh7f/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvbnMF1nOpq/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvbnMF1nOpq/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvbnMF1nOpq/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bvet3qCn1x6/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bvet3qCn1x6/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bvet3qCn1x6/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BveuRkjn5f-/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BveuRkjn5f-/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BveuRkjn5f-/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bvev5L2ntP3/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bvev5L2ntP3/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bvev5L2ntP3/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvlkQ0qnqZ8/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvlkQ0qnqZ8/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvlkQ0qnqZ8/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BvzJwHOgYFJ/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BvzJwHOgYFJ/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BvzJwHOgYFJ/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BxJ7OF0Bldb/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BxJ7OF0Bldb/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BxJ7OF0Bldb/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BxJ7XJlh0Me/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BxJ7XJlh0Me/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BxJ7XJlh0Me/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BxkOrPjiJsA/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BxkOrPjiJsA/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BxkOrPjiJsA/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BxkOsx8CTpf/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BxkOsx8CTpf/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BxkOsx8CTpf/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BxkOuvUid6b/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BxkOuvUid6b/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BxkOuvUid6b/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bxzq-xNiJXw/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bxzq-xNiJXw/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bxzq-xNiJXw/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BymoY4eCcU9/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BymoY4eCcU9/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BymoY4eCcU9/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/BymoaONCfNb/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/BymoaONCfNb/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/BymoaONCfNb/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bz_A1CCiFiU/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bz_A1CCiFiU/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bz_A1CCiFiU/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Bz_DXfqloI8/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Bz_DXfqloI8/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Bz_DXfqloI8/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CAPabSfj3Og/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CAPabSfj3Og/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CAPabSfj3Og/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CAvZbNYDLKG/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CAvZbNYDLKG/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CAvZbNYDLKG/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CBBiWT8jcby/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CBBiWT8jcby/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CBBiWT8jcby/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CBOGTUyDKiR/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CBOGTUyDKiR/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CBOGTUyDKiR/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CBfPVnFDKQC/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CBfPVnFDKQC/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CBfPVnFDKQC/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CCF3huFjJ_C/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CCF3huFjJ_C/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CCF3huFjJ_C/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CCVwTpGj22z/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CCVwTpGj22z/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CCVwTpGj22z/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CDT27_FDlP6/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CDT27_FDlP6/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CDT27_FDlP6/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CDV2zpNjUuK/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CDV2zpNjUuK/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CDV2zpNjUuK/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CE6609pDyhg/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CE6609pDyhg/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CE6609pDyhg/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CEL9SM_DliU/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CEL9SM_DliU/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CEL9SM_DliU/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CFhaqlvDJg5/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CFhaqlvDJg5/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CFhaqlvDJg5/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CGCl2jGjWkN/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CGCl2jGjWkN/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CGCl2jGjWkN/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CGhPnQFj9Pv/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CGhPnQFj9Pv/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CGhPnQFj9Pv/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CGuPNmkDY5m/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CGuPNmkDY5m/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CGuPNmkDY5m/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CIocEuTjTvv/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CIocEuTjTvv/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CIocEuTjTvv/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CIysj5Hj5X0/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CIysj5Hj5X0/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CIysj5Hj5X0/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CJED39bDFIq/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CJED39bDFIq/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CJED39bDFIq/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CKWGazXjErD/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CKWGazXjErD/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CKWGazXjErD/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CKeWEcQD9eo/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CKeWEcQD9eo/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CKeWEcQD9eo/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CLZYraTD__V/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CLZYraTD__V/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CLZYraTD__V/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CLthKAnjnO9/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CLthKAnjnO9/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CLthKAnjnO9/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CO_HrYuDChE/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CO_HrYuDChE/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CO_HrYuDChE/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CQL9b-wK3bQ/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CQL9b-wK3bQ/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CQL9b-wK3bQ/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CS_doW0j8g-/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CS_doW0j8g-/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CS_doW0j8g-/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CTfZqL_DOvh/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CTfZqL_DOvh/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CTfZqL_DOvh/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CUIHAQkjtJg/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CUIHAQkjtJg/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CUIHAQkjtJg/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CY015pbjnBi/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CY015pbjnBi/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CY015pbjnBi/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CYbZ9K4DM0h/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CYbZ9K4DM0h/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CYbZ9K4DM0h/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Cb8IjyHD99i/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Cb8IjyHD99i/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Cb8IjyHD99i/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CbFjWUWKX_S/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CbFjWUWKX_S/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CbFjWUWKX_S/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CbZkskVjtue/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CbZkskVjtue/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CbZkskVjtue/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/Cbuvs9dq4tP/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/Cbuvs9dq4tP/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/Cbuvs9dq4tP/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CiHhxW7j5Tt/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CiHhxW7j5Tt/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CiHhxW7j5Tt/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/archivo/CpUxKd9j7q6/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/archivo/CpUxKd9j7q6/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/archivo/CpUxKd9j7q6/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/contacto/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/contacto/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/contacto/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/estudio/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/estudio/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/estudio/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/agar/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/agar/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/agar/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/algas/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/algas/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/algas/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/barcelo/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/barcelo/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/barcelo/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/chapel/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/chapel/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/chapel/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/coral/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/coral/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/coral/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/doble-a/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/doble-a/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/doble-a/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/doble-b/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/doble-b/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/doble-b/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/esme-1/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/esme-1/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/esme-1/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/fatuo-1/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/fatuo-1/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/fatuo-1/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/la-ola-1/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/la-ola-1/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/la-ola-1/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/marte-1/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/marte-1/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/marte-1/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/nubes-1/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/nubes-1/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/nubes-1/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/sunset-3/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/sunset-3/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/sunset-3/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/tanguy-1/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/tanguy-1/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/tanguy-1/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/tanguy-2/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/tanguy-2/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/tanguy-2/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/obra/visc-1/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/obra/visc-1/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/obra/visc-1/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/arcangel-san-miguel/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/arcangel-san-miguel/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/arcangel-san-miguel/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/arcangel-san-rafael/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/arcangel-san-rafael/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/arcangel-san-rafael/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/calvario-anchieta/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/calvario-anchieta/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/calvario-anchieta/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/el-cid/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/el-cid/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/el-cid/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/florero-baudesson/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/florero-baudesson/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/florero-baudesson/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/huida-a-egipto/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/huida-a-egipto/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/huida-a-egipto/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/inmaculada-concepcion/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/inmaculada-concepcion/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/inmaculada-concepcion/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/la-piedad/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/la-piedad/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/la-piedad/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/pasmado-del-barniz/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/pasmado-del-barniz/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/pasmado-del-barniz/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/retrato-balaca/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/retrato-balaca/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/retrato-balaca/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/retrato-de-hombre/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/retrato-de-hombre/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/retrato-de-hombre/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/retrato-de-nino/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/retrato-de-nino/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/retrato-de-nino/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/retrato-de-senora/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/retrato-de-senora/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/retrato-de-senora/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/san-juan-evangelista/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/san-juan-evangelista/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/san-juan-evangelista/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/santiago-clavijo/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/santiago-clavijo/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/santiago-clavijo/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/vida-en-el-estudio/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/vida-en-el-estudio/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/vida-en-el-estudio/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    },
+    {
+      "url": "https://demoreto.com/restauracion/virgen-de-tomalos/",
+      "curl_exit": 0,
+      "status": 200,
+      "effective_url": "https://demoreto.com/restauracion/virgen-de-tomalos/",
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "canonical": [
+        "https://demoreto.com/restauracion/virgen-de-tomalos/"
+      ],
+      "x_robots_tag": [],
+      "passed": true
+    }
+  ]
+}

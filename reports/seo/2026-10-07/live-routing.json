@@ -1,0 +1,65 @@
+[
+  {
+    "url": "http://demoreto.com/",
+    "curl_exit": 0,
+    "status_and_final_url": "200\nhttps://demoreto.com/",
+    "robots": "index,follow,max-image-preview:large",
+    "canonical": "https://demoreto.com/",
+    "http_status_chain": [
+      "HTTP/1.1 301 Moved Permanently",
+      "HTTP/2 200 "
+    ]
+  },
+  {
+    "url": "http://www.demoreto.com/",
+    "curl_exit": 0,
+    "status_and_final_url": "200\nhttps://demoreto.com/",
+    "robots": "index,follow,max-image-preview:large",
+    "canonical": "https://demoreto.com/",
+    "http_status_chain": [
+      "HTTP/1.1 301 Moved Permanently",
+      "HTTP/2 301 ",
+      "HTTP/2 200 "
+    ]
+  },
+  {
+    "url": "https://demoreto.com/index.html",
+    "curl_exit": 0,
+    "status_and_final_url": "200\nhttps://demoreto.com/index.html",
+    "robots": "index,follow,max-image-preview:large",
+    "canonical": "https://demoreto.com/",
+    "http_status_chain": [
+      "HTTP/2 200 "
+    ]
+  },
+  {
+    "url": "https://demoreto.com/new-design/",
+    "curl_exit": 0,
+    "status_and_final_url": "200\nhttps://demoreto.com/new-design/",
+    "robots": "noindex,follow",
+    "canonical": "https://demoreto.com/new-design/",
+    "http_status_chain": [
+      "HTTP/2 200 "
+    ]
+  },
+  {
+    "url": "https://demoreto.com/robots.txt",
+    "curl_exit": 0,
+    "status_and_final_url": "200\nhttps://demoreto.com/robots.txt",
+    "robots": null,
+    "canonical": null,
+    "http_status_chain": [
+      "HTTP/2 200 "
+    ]
+  },
+  {
+    "url": "https://demoreto.com/sitemap.xml",
+    "curl_exit": 0,
+    "status_and_final_url": "200\nhttps://demoreto.com/sitemap.xml",
+    "robots": null,
+    "canonical": null,
+    "http_status_chain": [
+      "HTTP/2 200 "
+    ]
+  }
+]
