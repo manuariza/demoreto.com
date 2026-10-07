@@ -22,7 +22,15 @@ def metadata(path,title,body,base='/new-design/'):
  'archivo':'Archivo del estudio DeMoreto: restauraciones, procesos y notas de historia del arte, con las publicaciones y secuencias originales del taller.'}
  description=descriptions.get(path)
  if description is None:
-  if path.startswith('obra/'):description=f'{title}, obra de Antonio G. Ariza. Vea la pintura completa, detalles de su superficie y su presentación en el espacio. Consultas al estudio DeMoreto.'
+  if path.startswith('archivo/'):
+   match=re.search(r'<div class="source-text">(.*?)</div>',body,re.S)
+   source=' '.join(html.unescape(re.sub('<[^>]+>',' ',match.group(1))).split()) if match else ''
+   if source and source!='Esta publicación no incluye texto del estudio.':
+    description=source if len(source)<=165 else source[:162].rsplit(' ',1)[0]+'…'
+   else:
+    date=re.search(r'Publicado el ([\d.]+)',body)
+    description='Documentación fotográfica del archivo del estudio'+(' del '+date.group(1) if date else '')+': imágenes y secuencias originales del taller DeMoreto.'
+  elif path.startswith('obra/'):description=f'{title}, obra de Antonio G. Ariza. Vea la pintura completa, detalles de su superficie y su presentación en el espacio. Consultas al estudio DeMoreto.'
   else:
    match=re.search(r'<div class="case-intro">.*?<p>(.*?)</p>',body,re.S)
    source=html.unescape(re.sub('<[^>]+>',' ',match.group(1))) if match else clean

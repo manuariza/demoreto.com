@@ -9,18 +9,17 @@ out=Path(sys.argv[1]).resolve()
 if out==ROOT or ROOT in out.parents:raise SystemExit('Output must be outside the repository.')
 if out.exists() and any(out.iterdir()):raise SystemExit('Output directory must be empty.')
 out.mkdir(parents=True,exist_ok=True)
-urls=[];mapping=[];images={}
+urls=[];images={}
 for p in source.rglob('index.html'):
  rel=p.relative_to(source);route=rel.parent.as_posix();route='' if route=='.' else route+'/'
  text=p.read_text().replace('/new-design/','/')
- archive=route.startswith('archivo/') and route!='archivo/'
- if not archive:text=text.replace('content="noindex,follow"','content="index,follow,max-image-preview:large"')
+ # Every public production page, including original archive records, is indexable.
+ # The separate /new-design/ source keeps its preview-only noindex policy.
+ text=text.replace('content="noindex,follow"','content="index,follow,max-image-preview:large"')
  dest=out/rel;dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(text)
- if not archive:
-  canonical='https://demoreto.com/'+route;urls.append(canonical)
-  match=re.search(r'<meta property="og:image" content="([^"]+)">',text)
-  if match:images[canonical]=match.group(1)
- mapping.append(f'/new-design/{route}\thttps://demoreto.com/{route}\t'+('noindex,follow' if archive else 'index,follow'))
+ canonical='https://demoreto.com/'+route;urls.append(canonical)
+ match=re.search(r'<meta property="og:image" content="([^"]+)">',text)
+ if match:images[canonical]=match.group(1)
 for name in ['style.css','site.js']:(out/name).write_text((source/name).read_text().replace('/new-design/','/'))
 # Only distribute assets referenced by HTML/CSS/JS, including full-resolution zoom images.
 assets=set()
@@ -41,5 +40,4 @@ ET.ElementTree(root).write(out/'sitemap.xml',encoding='UTF-8',xml_declaration=Tr
 (out/'robots.txt').write_text('User-agent: *\nAllow: /\n\nSitemap: https://demoreto.com/sitemap.xml\n')
 (out/'CNAME').write_text('demoreto.com\n');(out/'.nojekyll').touch()
 (out/'llms.txt').write_text('# DeMoreto\n\nEstudio de conservación y restauración de arte de Antonio G. Ariza en Madrid.\n\n'+''.join('- '+u+'\n' for u in sorted(urls))+'\nEste índice es informativo; no garantiza inclusión en buscadores o asistentes.\n')
-report=ROOT/'reports/seo/2026-09-25';shutil.copy2(out/'sitemap.xml',report/'sitemap-at-launch.xml');(report/'url-mapping.tsv').write_text('preview\tproduction\tindexing\n'+'\n'.join(mapping)+'\n')
-print(f'Prepared {len(mapping)} pages, {len(urls)} indexable URLs and {len(assets)} assets in {out}. Not deployed.')
+print(f'Prepared {len(urls)} indexable pages and {len(assets)} assets in {out}. Not deployed.')
